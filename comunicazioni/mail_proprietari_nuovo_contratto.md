@@ -29,6 +29,8 @@ Ti allego una breve presentazione che spiega tutto passo per passo, insieme al n
 
 Non ti chiedo di firmare subito: prenditi il tempo che ti serve per leggere tutto con calma. Se ti fa piacere, possiamo sentirci per una chiamata e rispondo a ogni dubbio.
 
+Ti segnalo solo una cosa pratica: essendo cambiata la mia forma giuridica, **già da questo mese ho l'obbligo di emettere la fattura con l'IVA**, anche se il nuovo contratto non è ancora firmato. Per questo nella prossima fattura troverai l'IVA al 22% sul mio compenso: è un passaggio dovuto per legge, mentre la percentuale del mio compenso resta la stessa. Con il nuovo contratto, poi, il risparmio sulla cedolare compensa abbondantemente questa IVA, come vedi nell'esempio qui sopra.
+
 Sono davvero entusiasta di questa nuova fase e di continuare a far crescere la tua casa insieme, con una struttura ancora più solida.
 
 Un caro saluto,
