@@ -1,7 +1,11 @@
 """Build a client copy of the contract.
 
 usage: python3 build.py base_dir out.docx spec1.json [spec2.json ...]
-spec json: {"set": {"<idx>": "text" | null}, "after": {"<idx>": ["text", ...]}}
+spec json: {"set": {"<idx>": "text" | null},
+            "after": {"<idx>": ["text" | {"text": "...", "like": <idx>}, ...]},
+            "shift_refs": {"from": 7, "by": 1}}
+Article references ("art. N", "artt. N e M", "Article(s) N") from `from` upward are shifted by `by`
+after all edits; write references in the base numbering. "§" marks a number that must not shift.
 Indices are the paragraph indices printed by dump.py on the base document.
 Later specs override earlier ones. null deletes the paragraph. '\t' becomes a tab.
 """
@@ -9,11 +13,12 @@ import json, re, shutil, subprocess, sys, os, tempfile
 from xml.sax.saxutils import escape
 
 base, out, specs = sys.argv[1], sys.argv[2], sys.argv[3:]
-sets, after = {}, {}
+sets, after, shift = {}, {}, None
 for s in specs:
     d = json.load(open(s, encoding='utf-8'))
     sets.update({int(k): v for k, v in d.get('set', {}).items()})
     after.update({int(k): v for k, v in d.get('after', {}).items()})
+    shift = d.get('shift_refs', shift)
 
 xml = open(os.path.join(base, 'word/document.xml'), encoding='utf-8').read()
 P = re.compile(r'<w:p(?:\s[^>]*)?>.*?</w:p>|<w:p(?:\s[^>]*)?/>', re.S)
@@ -42,6 +47,22 @@ def set_text(p, text):
     res.append(p[last:])
     return ''.join(res)
 
+REF = re.compile(r'((?:\bartt?\.|\bArticles?)\s*)(\d+(?:(?:,\s*|\s+e\s+|\s+and\s+)\d+)*)(?!\s+(?:del|of the)\s+GDPR)')
+T = re.compile(r'(<w:t(?:\s[^>]*)?>)([^<]*)(</w:t>)')
+
+def plain(p):
+    return ''.join(m.group(2) for m in T.finditer(p))
+
+def shift_refs(p):
+    if not shift or '<w:t' not in p:
+        return p.replace('§', '')
+    def fix(m):
+        nums = re.sub(r'\d+', lambda n: str(int(n.group(0)) + shift['by']) if shift['from'] <= int(n.group(0)) <= 99 else n.group(0), m.group(2))
+        return m.group(1) + nums
+    old = plain(p)
+    new = REF.sub(fix, old).replace('§', '')
+    return p if new == old else set_text(p, new.replace('&lt;', '<').replace('&gt;', '>').replace('&amp;', '&'))
+
 paras = list(P.finditer(xml))
 out_parts, last = [], 0
 for i, m in enumerate(paras):
@@ -49,9 +70,10 @@ for i, m in enumerate(paras):
     p = m.group(0)
     if i in sets:
         p = '' if sets[i] is None else set_text(p, sets[i])
-    out_parts.append(p)
+    out_parts.append(shift_refs(p))
     for t in after.get(i, []):
-        out_parts.append(set_text(m.group(0), t))
+        like = paras[t['like']].group(0) if isinstance(t, dict) else m.group(0)
+        out_parts.append(shift_refs(set_text(like, t['text'] if isinstance(t, dict) else t)))
     last = m.end()
 out_parts.append(xml[last:])
 

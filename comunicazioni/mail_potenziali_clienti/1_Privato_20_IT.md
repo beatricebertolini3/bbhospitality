@@ -8,7 +8,7 @@ grazie ancora per l'interesse e per il tempo che mi hai dedicato. Come promesso,
 
 **Di cosa ci occupiamo**
 
-Prendiamo in carico la tua casa dall'inizio alla fine: annuncio e foto, prezzi e calendario, comunicazione con gli ospiti, check-in e check-out, pulizie e biancheria, manutenzioni e tutti gli adempimenti burocratici (CIN, Alloggiati Web, ISTAT, imposta di soggiorno). Ogni mese ricevi un rendiconto chiaro e il bonifico del tuo netto entro il 28.
+Prendiamo in carico la tua casa dall'inizio alla fine: annuncio e foto, prezzi e calendario, comunicazione con gli ospiti, check-in e check-out, pulizie e biancheria, manutenzioni e tutti gli adempimenti burocratici (CIN, Alloggiati Web, ISTAT, imposta di soggiorno). Ogni mese ricevi un rendiconto chiaro e il bonifico del tuo netto, di norma entro il 5 del mese successivo.
 
 **Come funziona il compenso**
 

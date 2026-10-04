@@ -8,7 +8,7 @@ thank you again for your interest and for your time. As promised, please find at
 
 **What we do**
 
-We take care of your home from start to finish: listing and photos, pricing and calendar, guest communication, check-in and check-out, cleaning and linen, maintenance and all the Italian paperwork (CIN, police guest registration, statistics, tourist tax). Every month you receive a clear statement, and your net income is transferred by the 28th.
+We take care of your home from start to finish: listing and photos, pricing and calendar, guest communication, check-in and check-out, cleaning and linen, maintenance and all the Italian paperwork (CIN, police guest registration, statistics, tourist tax). Every month you receive a clear statement, and your net income is normally transferred by the 5th of the following month.
 
 **Our fee**
 

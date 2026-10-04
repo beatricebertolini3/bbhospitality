@@ -19,7 +19,7 @@ Per voi abbiamo previsto un compenso del **10% del pernottamento, calcolato al n
 La bozza è già impostata per una società:
 
 - emettiamo in vostro nome e per vostro conto le fatture agli ospiti, secondo il regime IVA che ci indicherete;
-- ogni mese ricevete un rendiconto dettagliato (prenotazioni, incassi, commissioni, costi) e il bonifico del netto entro il 28, con tutta la documentazione utile al vostro commercialista;
+- ogni mese ricevete un rendiconto dettagliato (prenotazioni, incassi, commissioni, costi) e il bonifico del netto, di norma entro il 5 del mese successivo, con tutta la documentazione utile al vostro commercialista;
 - il nostro compenso è fatturato da una società, quindi è un costo d'impresa documentato. Il trattamento dell'IVA dipende dal regime dei vostri canoni: vi consiglio di verificarlo con il vostro consulente.
 
 **Un contratto chiaro e tutelante**
