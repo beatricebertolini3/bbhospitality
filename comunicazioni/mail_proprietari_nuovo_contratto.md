@@ -40,4 +40,4 @@ BB Hospitality S.r.l.
 Via Marconi 21, 23010 Tartano (SO)
 P.IVA 01108670140 · PEC: bbhospitality.srl@pec.it
 
-*Allegati: presentazione "Il nuovo modello"; Contratto di mandato con rappresentanza BB Hospitality*
+*Allegati: presentazione "Il nostro modello di gestione"; Contratto di mandato con rappresentanza BB Hospitality*
