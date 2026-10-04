@@ -24,7 +24,7 @@ La bozza è già impostata per una società:
 
 **Un contratto chiaro e tutelante**
 
-Il contratto è stato rivisto da un avvocato e definisce con precisione diritti e doveri di entrambe le parti: manutenzioni solo su preventivo approvato da voi, regole chiare per gli interventi in loco, rendicontazione mensile, recesso con preavviso di due mesi.
+Il contratto è stato rivisto da un avvocato e definisce con precisione diritti e doveri di entrambe le parti: manutenzioni solo su preventivo approvato da voi, regole chiare per gli interventi in loco, rendicontazione mensile, durata minima di 6 mesi e recesso con preavviso di due mesi (con un rimborso forfettario di 500 € dei costi di avviamento se il contratto termina entro il primo anno).
 
 I campi con i dati della società e dell'immobile sono da compilare: potete farlo voi oppure inviarmeli e preparo io il contratto.
 

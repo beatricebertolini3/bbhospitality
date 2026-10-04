@@ -29,7 +29,7 @@ That is **€37 more per booking**, around **€1,880 more per year** over 100 n
 
 **A clear agreement that protects you**
 
-The draft has been reviewed by a lawyer and sets out both parties' rights and obligations: maintenance only on quotes you approve, clear rules for on-site call-outs, monthly reporting, and two months' notice to withdraw. It is governed by Italian law.
+The draft has been reviewed by a lawyer and sets out both parties' rights and obligations: maintenance only on quotes you approve, clear rules for on-site call-outs, monthly reporting, a minimum term of 6 months and two months' notice to withdraw (with a flat €500 reimbursement of start-up costs if the agreement ends within the first year). It is governed by Italian law.
 
 The fields with your details and the property's details are left blank: you can fill them in yourself, or send them to me and I will prepare the agreement for you.
 

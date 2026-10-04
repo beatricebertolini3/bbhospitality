@@ -22,7 +22,7 @@ Un esempio: per una prenotazione di 2 notti a 200 € a notte, con 80 € di pul
 
 **Un contratto chiaro e tutelante**
 
-La bozza è stata rivista da un avvocato e mette nero su bianco diritti e doveri di entrambi: manutenzioni solo su preventivo approvato da te, regole precise per gli interventi in loco, rendicontazione mensile, recesso con preavviso di due mesi.
+La bozza è stata rivista da un avvocato e mette nero su bianco diritti e doveri di entrambi: manutenzioni solo su preventivo approvato da te, regole precise per gli interventi in loco, rendicontazione mensile, durata minima di 6 mesi e recesso con preavviso di due mesi (con un rimborso forfettario di 500 € dei costi di avviamento se il contratto termina entro il primo anno).
 
 I campi con i tuoi dati e quelli della casa sono da compilare: puoi farlo tu oppure mandarmeli e lo preparo io.
 
