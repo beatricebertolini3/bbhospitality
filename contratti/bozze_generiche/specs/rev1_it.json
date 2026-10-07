@@ -1,0 +1,66 @@
+{
+ "shift_refs": {
+  "from": 7,
+  "by": 1
+ },
+ "set": {
+  "40": "determinare, di concerto con il Mandante, i corrispettivi da richiedere agli Ospiti (distinti fra quota relativa alla locazione dell’Immobile e quota relativa ai servizi che il Property Manager fornisce direttamente agli Ospiti), tenuto conto della durata del soggiorno, della stagione e del numero di occupanti;",
+  "59": null,
+  "61": "check-in degli Ospiti, svolto da remoto nel rispetto della normativa italiana vigente in materia di identificazione degli alloggiati, ivi compreso l’obbligo di riconoscimento de visu ove previsto, anche mediante strumenti di identificazione a distanza conformi a tale normativa; invio delle istruzioni di accesso all’Immobile e del vademecum di cui alla lettera a) del presente comma; nonché riscossione dell’imposta di soggiorno con contestuale emissione della relativa ricevuta e acquisizione dei documenti di identità degli alloggiati per la comunicazione alla Questura;",
+  "73": "Il Property Manager fornisce al Mandante le credenziali di accesso al Portale Proprietari del gestionale Kross Booking, nel quale il Mandante può consultare in ogni momento, per ciascuna prenotazione, il nome degli Ospiti, le date di inizio e di conclusione del soggiorno, l’importo corrisposto dall’Ospite, le commissioni trattenute dalle piattaforme di prenotazione, i compensi maturati dal Property Manager e le spese sostenute. Il rendiconto mensile dell’attività è reso disponibile al Mandante tramite il medesimo portale o, su richiesta, in formato elettronico.",
+  "80": "Il Mandante può utilizzare l’Immobile per uso proprio secondo criteri di ragionevolezza e buona fede, dandone comunicazione scritta al Property Manager (anche a mezzo e-mail o messaggistica istantanea), affinché questi possa bloccare le relative date (d’ora in avanti le “Date Escluse”), anche attraverso il portale dedicato alle prenotazioni, di cui gli verrà fornito l’accesso. Il Mandante non potrà occupare l’Immobile nei periodi di alta stagione, salvo preventivo accordo con il Property Manager; potrà invece utilizzarlo, anche con breve preavviso, nei periodi in cui l’Immobile risulti libero da prenotazioni.",
+  "82": "che le Date Escluse non potranno superare i 60 giorni per anno solare;",
+  "88": "In conformità all’incarico ricevuto, il Property Manager concede l’Immobile in locazione breve, per periodi inferiori a 30 giorni, nel rispetto della normativa nazionale e locale applicabile. Le locazioni di durata superiore sono disciplinate dall’art. §7.",
+  "90": "Il canone di ciascuna locazione breve è determinato dal Property Manager, di concerto con il Mandante, in base alla stagionalità, al numero degli occupanti e alla durata del soggiorno, applicando una tariffa giornaliera per i giorni di effettiva locazione dell’Immobile.",
+  "91": null,
+  "119": "Il Mandante autorizza espressamente il Property Manager ad avvalersi, per lo svolgimento delle attività tecniche, operative, fiscali e contabili oggetto del presente Contratto, di collaboratori e soggetti terzi (a titolo esemplificativo: addetti alle pulizie, lavanderie, manutentori, consulenti), ognuno per quanto di competenza. Il Property Manager risponde dell’operato di tali soggetti come del fatto proprio. I relativi costi sono a carico del Property Manager, ad eccezione di quelli che il presente Contratto pone a carico del Mandante, ossia i servizi di pulizia, biancheria e lavanderia e le commissioni delle piattaforme di prenotazione (art. 10), le manutenzioni (art. 12) e gli Interventi in Loco nei casi previsti dall’art. 13.",
+  "123": "Il Property Manager verserà al Mandante le somme a lui spettanti per l’effettivo periodo di occupazione maturato nel mese solare precedente, determinate ai sensi del successivo art. 10, ossia il ricavo dei soggiorni dedotti il compenso del Property Manager, tutti i costi ordinari e straordinari a carico del Mandante e le eventuali ritenute di legge. Il versamento avviene di norma entro il giorno 5 del mese successivo a quello di maturazione; qualora le piattaforme di prenotazione accreditino le somme in ritardo, il versamento avverrà entro l’ultimo giorno di tale mese e, in ogni caso, solo dopo l’effettivo incasso delle relative somme da parte del Property Manager.",
+  "168": "Il Property Manager dichiara di aver stipulato polizza assicurativa a copertura dei rischi connessi alla propria attività che allega al presente contratto (allegato f).",
+  "169": "Il Mandante dichiara di avere stipulato adeguata polizza assicurativa, con primaria compagnia, a copertura dei rischi di incendio (fabbricato e contenuto), furto, responsabilità civile verso i conduttori e verso terzi, che viene allegata al presente contratto (allegato g).",
+  "221": null,
+  "231": "12) Responsabilità del Property Manager e sue limitazioni;",
+  "232": "13) Manutenzione dell’Immobile;",
+  "233": "14) Interventi in loco e accesso degli Ospiti;",
+  "234": "16) Durata e recesso;",
+  "235": "17) Prenotazioni in essere alla cessazione del Contratto;",
+  "236": "18) Clausola risolutiva espressa;",
+  "237": "21) Controversie.",
+  "92": "Per le locazioni a breve termine, il canone è comprensivo del rimborso delle spese condominiali ordinarie, della Tassa Rifiuti e delle Utenze (elettricità, gas, internet, ecc.) dell’Immobile, oltre a qualsiasi altra spesa / imposta / tassa non espressamente indicata nel presente Contratto."
+ },
+ "after": {
+  "99": [
+   {
+    "like": 87,
+    "text": "Locazioni di media durata"
+   },
+   {
+    "like": 88,
+    "text": "In via ordinaria l’Immobile è destinato alla locazione breve. In caso di necessità e previo accordo scritto con il Mandante, anche a mezzo e-mail, le Parti potranno optare per la locazione dell’Immobile a medio termine, per periodi superiori a 30 giorni e comunque inferiori all’anno e alla durata massima consentita dalla normativa vigente, secondo i criteri stabiliti dal presente articolo."
+   },
+   {
+    "like": 88,
+    "text": "Per le locazioni di media durata:"
+   },
+   {
+    "like": 88,
+    "text": "a) il canone è pattuito in misura forfettaria settimanale o mensile, concordata di volta in volta tra le Parti;"
+   },
+   {
+    "like": 88,
+    "text": "b) il Property Manager fa sottoscrivere al conduttore un contratto di locazione in forma scritta, conforme alla normativa applicabile, e ne cura la registrazione ai sensi dell’art. 8, con costo a carico del Mandante;"
+   },
+   {
+    "like": 88,
+    "text": "c) il Property Manager richiede al conduttore un adeguato deposito cauzionale o idonee garanzie, che gestisce ai sensi dell’art. 11;"
+   },
+   {
+    "like": 88,
+    "text": "d) il compenso del Property Manager è pari alla percentuale prevista dall’art. 10, calcolata sul canone pattuito al netto delle eventuali commissioni delle piattaforme di prenotazione, salvo diverso accordo scritto tra le Parti;"
+   },
+   {
+    "like": 88,
+    "text": "e) per quanto non diversamente previsto, si applicano le disposizioni del presente Contratto in quanto compatibili."
+   }
+  ]
+ }
+}
