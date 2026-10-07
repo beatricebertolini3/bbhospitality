@@ -1,4 +1,4 @@
-*Da allegare: Bozza_Contratto_BB_Hospitality_Privato_20_IT.docx · presentazione "Hudea – Stagione 2026" (PDF o link) · fattura di [mese]*
+*Da allegare: Bozza_Contratto_BB_Hospitality_Privato_20_IT.docx · presentazione "Hudea – Stagione 2026" (PDF o link) · fattura di settembre*
 
 **Oggetto:** Come d'accordo: la proposta per la prossima stagione e la fattura del mese
 
@@ -35,11 +35,11 @@ L'IVA sul compenso costa 415 € nella stagione, ma la cedolare scende di oltre 
 
 **È una proposta, non un obbligo**
 
-Come ti ho detto al telefono, se preferisci tenere l'annuncio sul tuo profilo e continuare come facciamo oggi, va benissimo: possiamo andare avanti così. L'unica cosa che cambia in ogni caso è la fattura: essendo cambiata la mia forma giuridica, da questo mese ho l'obbligo di emetterla con l'**IVA**. La percentuale del compenso resta la stessa. In allegato trovi la fattura di [mese].
+Come ti ho detto al telefono, se preferisci tenere l'annuncio sul tuo profilo e continuare come facciamo oggi, va benissimo: possiamo andare avanti così. L'unica cosa che cambia in ogni caso è la fattura: essendo cambiata la mia forma giuridica, da questo mese ho l'obbligo di emetterla con l'**IVA**. La percentuale del compenso resta la stessa. In allegato trovi la fattura di settembre.
 
 **Prossimi passi**
 
-Prenditi tutto il tempo per guardare la presentazione e la bozza, e se vuoi falle vedere al tuo commercialista, in particolare per confermare l'aliquota della cedolare che ti si applica (21% o 26%; al 26% il guadagno sarebbe di circa 1.510 €). Se ti viene qualche dubbio scrivimi o chiamami quando vuoi, e decidiamo insieme cosa è meglio per te.
+Prenditi tutto il tempo per guardare la presentazione e la bozza, e se vuoi falle vedere al tuo commercialista, in particolare per confermare l'aliquota della cedolare che ti si applica (21% o 26%; al 26% il guadagno sarebbe di circa 1.510 €, +69,6%). Se ti viene qualche dubbio scrivimi o chiamami quando vuoi, e decidiamo insieme cosa è meglio per te.
 
 Grazie per la fiducia di questa stagione, non vedo l'ora di iniziare la prossima.
 
