@@ -1,4 +1,4 @@
-*Attach: Bozza_Contratto_BB_Hospitality_Privato_15_EN.docx · McCann – Season 2026 review (presentation, PDF or link) · invoice for [month]*
+*Attach: Bozza_Contratto_BB_Hospitality_Privato_15_EN.docx · McCann – Season 2026 review (presentation, PDF or link) · invoice for September*
 
 **Subject:** Your 2026 season, a proposal for next year and this month's invoice
 
@@ -36,7 +36,7 @@ The VAT on our fee costs €730 over the season, but the rental tax drops by mor
 
 **This is a proposal, not an obligation**
 
-If you prefer to keep the listing on your profile and continue as we do today, that is absolutely fine: we can carry on as now. The only thing that changes in any case is the invoice: as my legal form has changed, from this month I am required to invoice with **VAT**. The fee percentage itself stays the same. You will find the invoice for [month] attached.
+If you prefer to keep the listing on your profile and continue as we do today, that is absolutely fine: we can carry on as now. The only thing that changes in any case is the invoice: as my legal form has changed, from this month I am required to invoice with **VAT**. The fee percentage itself stays the same. You will find the invoice for September attached.
 
 **Next steps**
 
