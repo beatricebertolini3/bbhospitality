@@ -29,10 +29,9 @@ Come ci siamo detti, il passaggio ha un costo: Airbnb non permette di spostare u
 Ho applicato il nuovo contratto ai numeri reali della tua stagione (cedolare al 21%):
 
 - **2026 reale:** 2.790,59 € netti a te
-- **Nuovo contratto:** 3.478,16 € netti a te (**+688 €**)
-- **Nuovo contratto con le pulizie fatturate:** 3.930,92 € netti a te (**+1.140 €, +40,9%**)
+- **Con il nuovo contratto:** 3.930,92 € netti a te (**+1.140 €, +40,9%**)
 
-L'IVA sul compenso costa 415 € nella stagione, ma la cedolare scende di oltre 1.550 €. Il terzo scenario riguarda le pulizie: se chi se ne occupa ci emette fattura, le pulizie diventano un servizio documentato e il loro costo (2.156 € quest'anno) esce anche lui dalla base su cui si calcola la cedolare. Se sei d'accordo, ne parlo io con chi fa le pulizie.
+L'IVA sul compenso costa 415 € nella stagione, ma la cedolare scende di oltre 1.550 €. Il motivo è che oggi la cedolare si paga su tutto l'incasso dei pernottamenti (12.382 €), mentre con il nuovo modello si paga solo su quello che ti resta, al netto di commissioni, compenso e pulizie. Le pulizie sono già fatturate, quindi anche il loro costo (2.156 € quest'anno) esce dalla base.
 
 **È una proposta, non un obbligo**
 
