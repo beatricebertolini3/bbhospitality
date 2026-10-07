@@ -33,13 +33,13 @@ Ho applicato il nuovo contratto ai numeri reali della tua stagione (cedolare al 
 
 L'IVA sul compenso costa 415 € nella stagione, ma la cedolare scende di oltre 1.550 €. Il motivo è che oggi la cedolare si paga su tutto l'incasso dei pernottamenti (12.382 €), mentre con il nuovo modello si paga solo su quello che ti resta, al netto di commissioni, compenso e pulizie. Le pulizie sono già fatturate, quindi anche il loro costo (2.156 € quest'anno) esce dalla base.
 
-**È una proposta, non un obbligo**
+**Due formule tra cui scegliere**
 
-Come ti ho detto al telefono, se preferisci tenere l'annuncio sul tuo profilo e continuare come facciamo oggi, va benissimo: possiamo andare avanti così. L'unica cosa che cambia in ogni caso è la fattura: essendo cambiata la mia forma giuridica, da questo mese ho l'obbligo di emetterla con l'**IVA**. La percentuale del compenso resta la stessa. In allegato trovi la fattura di settembre.
+Come ti ho detto al telefono, se preferisci tenere l'annuncio sul tuo profilo possiamo restare con la formula attuale; il nuovo modello però, con i tuoi numeri, conviene. L'unica cosa che cambia in ogni caso è la fattura: essendo cambiata la mia forma giuridica, da questo mese ho l'obbligo di emetterla con l'**IVA**. La percentuale del compenso resta la stessa. In allegato trovi la fattura di settembre.
 
 **Prossimi passi**
 
-Prenditi tutto il tempo per guardare la presentazione e la bozza, e se vuoi falle vedere al tuo commercialista, in particolare per confermare l'aliquota della cedolare che ti si applica (21% o 26%; al 26% il guadagno sarebbe di circa 1.510 €, +69,6%). Se ti viene qualche dubbio scrivimi o chiamami quando vuoi, e decidiamo insieme cosa è meglio per te.
+Guarda con calma la presentazione e la bozza, e se vuoi falle vedere al tuo commercialista, in particolare per confermare l'aliquota della cedolare che ti si applica (21% o 26%; al 26% il guadagno sarebbe di circa 1.510 €, +69,6%). Per qualsiasi dubbio scrivimi o chiamami, e poi fammi sapere quale formula scegli per la prossima stagione.
 
 Grazie per la fiducia di questa stagione, non vedo l'ora di iniziare la prossima.
 
