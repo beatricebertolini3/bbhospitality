@@ -41,7 +41,8 @@ C[172]=rep(172,"Fermo quanto previsto dal successivo comma in merito alla durata
 C[174]=None; C[175]=None
 C[226]="11) Compenso del Property Manager;"
 A[16]=[{"text":"Le Parti intrattengono già un rapporto di collaborazione per la gestione dell’Immobile, che con il presente Contratto intendono disciplinare in modo aggiornato, anche a seguito dello svolgimento dell’attività del Property Manager in forma societaria;","like":16}]
-FEE_DEF=" Per “Costo del Pernottamento”"+T[128].split(" Per “Costo del Pernottamento”")[1]
+C[180]="A fronte dell’attività di promozione e acquisizione svolta, per le Prenotazioni Future il Mandante riconosce al Property Manager un compenso forfettario (il “Compenso di Fine Mandato”) pari al 30% (trenta per cento) del compenso che sarebbe spettato al Property Manager ai sensi dell’art. 11 sul Costo del Pernottamento relativo ai pernottamenti successivi alla data di cessazione."
+FEE_DEF=" Per “Costo del Pernottamento” si intende il prezzo dei pernottamenti dovuto dall’Ospite, come risultante dalla prenotazione, al netto delle commissioni trattenute dalle piattaforme di prenotazione e delle spese di pulizia relative al soggiorno, ed esclusi l’imposta di soggiorno, l’eventuale deposito cauzionale e le commissioni di servizio addebitate all’Ospite dalle piattaforme."
 def fee(pct,word,extra=""):
     return f"Per l’attività di gestione e per i servizi di cui all’art. 2, al Property Manager spetta un compenso pari al {pct}% ({word} per cento) del Costo del Pernottamento di ciascuna prenotazione{extra}, oltre IVA."+FEE_DEF
 
@@ -83,13 +84,13 @@ R[229]="14) Servizi in loco e accesso degli Ospiti;"
 def units(n):
     word={2:"due",4:"quattro"}[n]
     u="; ".join(f"({k}) sita in ______________________ (____), Via ______________________ n. ____, interno ____, piano ____, NCEU del Comune di ______________________ Foglio ____, Mapp. ____, Sub. ____, Cat. ____" for k in range(1,n+1))
-    return f"Il Mandante è proprietario (ovvero titolare di altro diritto reale o personale di godimento) delle seguenti {n} ({word}) unità immobiliari, ciascuna oggetto di un distinto annuncio sulle piattaforme di prenotazione (di seguito, singolarmente e congiuntamente, l’“Immobile”, intendendosi ogni riferimento all’Immobile contenuto nel presente Contratto riferito a ciascuna di esse): {u};"
+    return f"Il Mandante è proprietario (ovvero titolare di altro diritto reale o personale di godimento) delle seguenti {n} ({word}) unità immobiliari, promosse sulle piattaforme di prenotazione sia singolarmente sia congiuntamente (di seguito, singolarmente e congiuntamente, l’“Immobile”, intendendosi ogni riferimento all’Immobile contenuto nel presente Contratto riferito a ciascuna di esse): {u};"
 
-AL=dict(R); AL[10]=units(4)
-AL[128]=fee(10,"dieci")+" Al Property Manager spetta inoltre, per l’utilizzo del gestionale Kross Booking, un canone mensile di euro 9,00 (nove/00) oltre IVA per ciascun annuncio gestito, pari a complessivi euro 36,00 (trentasei/00) oltre IVA al mese per i 4 (quattro) annunci gestiti alla data di sottoscrizione, fatturato con il compenso mensile ai sensi dell’art. 10."
+AL=dict(R); AL[10]=units(2)
+AL[128]=fee(10,"dieci")+" Al Property Manager spetta inoltre, per l’utilizzo del gestionale Kross Booking, un canone mensile di euro 9,00 (nove/00) oltre IVA per ciascuna unità configurata sul gestionale, pari a complessivi euro 27,00 (ventisette/00) oltre IVA al mese per le 3 (tre) unità configurate alla data di sottoscrizione (le 2 unità immobiliari e l’unità aggiuntiva che le comprende entrambe, utilizzata per la loro locazione congiunta), fatturato con il compenso mensile ai sensi dell’art. 10."
 
 IL=dict(R); IL[10]=units(2)
-IL[128]=fee(10,"dieci"," relativa ai 2 (due) annunci gestiti")
+IL[128]=fee(10,"dieci")+" Al Property Manager spetta inoltre, per l’utilizzo del gestionale Kross Booking, un canone mensile di euro 9,00 (nove/00) oltre IVA per ciascuna unità configurata sul gestionale, pari a complessivi euro 27,00 (ventisette/00) oltre IVA al mese per le 3 (tre) unità configurate alla data di sottoscrizione (le 2 unità immobiliari e l’unità aggiuntiva che le comprende entrambe, utilizzata per la loro locazione congiunta), fatturato con il compenso mensile ai sensi dell’art. 10."
 IA=dict(A)
 IA[69]=[{"text":"All’avvio della gestione il Property Manager cura il passaggio dal gestionale attualmente utilizzato dal Mandante al gestionale Kross Booking, trasferendo annunci, calendari, tariffe e prenotazioni in essere in modo da garantire la continuità delle prenotazioni. Il Mandante collabora fornendo gli accessi e le informazioni necessari e, completato il passaggio, può consultare i dati delle prenotazioni tramite il Portale Proprietari di cui al comma precedente.","like":69}]
 IA[115]=[{"text":"Il Property Manager cura la comunicazione con il consulente fiscale indicato dal Mandante, al quale trasmette con cadenza mensile i dati e la documentazione relativi alle prenotazioni, agli incassi, alle commissioni delle piattaforme di prenotazione, all’imposta di soggiorno e ai compensi del Property Manager, e con il quale si coordina affinché tutti gli adempimenti fiscali connessi alle locazioni siano assolti correttamente e nei termini. Restano in capo al Mandante e al suo consulente fiscale la tenuta della contabilità e la presentazione delle dichiarazioni fiscali.","like":115}]
