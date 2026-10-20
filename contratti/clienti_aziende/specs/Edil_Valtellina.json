@@ -16,17 +16,22 @@
   "94": null,
   "100": "c) il Property Manager richiede al conduttore un adeguato deposito cauzionale o idonee garanzie, che il conduttore versa direttamente al Mandante;",
   "120": "Incassi, fatturazione e pagamenti",
-  "122": "Al termine di ciascun mese solare il Property Manager emette fattura al Mandante per il compenso di cui all’art. 11 maturato sui pernottamenti del mese, oltre IVA, unitamente agli eventuali costi a carico del Mandante sostenuti dal Property Manager nel medesimo mese, e mette a disposizione il rendiconto delle prenotazioni di cui all’art. 4. Il Mandante provvede al pagamento entro 15 (quindici) giorni dal ricevimento della fattura.",
+  "122": "Al termine di ciascun mese solare il Property Manager emette fattura al Mandante per il compenso di cui all’art. 11 maturato sui pernottamenti del mese, oltre IVA, unitamente agli eventuali costi a carico del Mandante sostenuti dal Property Manager nel medesimo mese, e mette a disposizione il rendiconto delle prenotazioni di cui all’art. 4. Il Mandante provvede al pagamento entro 7 (sette) giorni dal ricevimento della fattura.",
   "123": "Detti pagamenti sono effettuati mediante bonifico bancario sul c/c intestato al Property Manager al seguente IBAN: _______________________________",
   "124": "I costi sostenuti dal Property Manager per conto del Mandante sono addebitati nella fattura mensile verso presentazione del relativo giustificativo. Eventuali contestazioni del Mandante in merito alle spese addebitate dovranno pervenire, per iscritto, al Property Manager entro e non oltre il termine di 30 giorni dalla presentazione dei giustificativi.",
   "130": null,
   "137": "Il Property Manager è responsabile del corretto adempimento degli obblighi di registrazione preliminare dell’Immobile e di comunicazione alle Autorità Competenti dei dati degli Ospiti, delle dichiarazioni relative all’imposta di soggiorno poste a suo carico dal presente Contratto ed in genere delle prestazioni dovute a terzi in forza di Contratto.",
   "139": null,
-  "175": "Il rimborso forfettario di cui al comma precedente non è dovuto qualora il Contratto cessi per recesso del Property Manager o per risoluzione dovuta a inadempimento del Property Manager. È fatturato dal Property Manager e pagato dal Mandante ai sensi dell’art. 10.",
+  "175": null,
   "176": "Le prenotazioni in essere alla data di cessazione del Contratto, per qualsiasi causa intervenuta, sono regolate dal successivo art. 17. Restano fermi gli obblighi di rendicontazione e di fatturazione e pagamento dei compensi maturati fino alla data di cessazione.",
   "185": null,
   "192": "la mancata messa a disposizione dell’Immobile e degli accessi agli account delle piattaforme di prenotazione entro 10 giorni dalla ricezione della lettera di messa in mora;",
   "196": null,
+  "127": null,
+  "131": "Fatto salvo quanto previsto dal presente articolo e dagli artt. 13, 14 e 17, null’altro sarà dovuto dal Mandante al Property Manager.",
+  "172": "Ciascuna Parte potrà recedere dal Contratto mediante comunicazione scritta da inviarsi all’altra Parte a mezzo raccomandata A/R o PEC, con un preavviso di 2 (due) mesi. Il recesso avrà effetto a decorrere dall’ultimo giorno del secondo mese solare successivo a quello in cui la relativa comunicazione sarà pervenuta all’altra Parte.",
+  "174": null,
+  "226": "11) Compenso del Property Manager;",
   "118": "Il Mandante autorizza espressamente il Property Manager ad avvalersi, per lo svolgimento delle attività tecniche, operative, fiscali e contabili oggetto del presente Contratto, di collaboratori e soggetti terzi (a titolo esemplificativo: addetti alle pulizie, lavanderie, manutentori, consulenti), ognuno per quanto di competenza. Il Property Manager risponde dell’operato di tali soggetti come del fatto proprio. I relativi costi sono a carico del Property Manager, ad eccezione di quelli che il presente Contratto pone a carico del Mandante, ossia i servizi di pulizia, biancheria e lavanderia (art. 11), le manutenzioni (art. 13) e gli Interventi in Loco nei casi previsti dall’art. 14. Le commissioni delle piattaforme di prenotazione sono sostenute direttamente dal Mandante.",
   "121": "I canoni di locazione, gli eventuali depositi cauzionali e ogni altra somma pagata dagli Ospiti sono incassati direttamente dal Mandante, tramite le piattaforme di prenotazione su account a lui intestati ovvero sul conto corrente a lui intestato. Il Mandante restituisce i depositi cauzionali al termine del rapporto, previa verifica dei locali da parte del Property Manager e sulla base delle sue indicazioni.",
   "128": "Per l’attività di gestione e per i servizi di cui all’art. 2, al Property Manager spetta un compenso pari al 20% (venti per cento) del Costo del Pernottamento di ciascuna prenotazione, oltre IVA. Per “Costo del Pernottamento” si intende il prezzo dei pernottamenti dovuto dall’Ospite, come risultante dalla prenotazione, al netto delle commissioni trattenute dalle piattaforme di prenotazione ed escluse l’imposta di soggiorno, l’eventuale deposito cauzionale, le spese di pulizia finale eventualmente addebitate separatamente all’Ospite e le commissioni di servizio addebitate all’Ospite dalle piattaforme.",
@@ -40,6 +45,12 @@
    {
     "text": "Gli annunci pubblicati sulle piattaforme di prenotazione e i relativi account restano intestati al Mandante, che ne conserva la titolarità, ivi comprese le recensioni ricevute. Il Mandante concede al Property Manager l’accesso a tali account, in qualità di co-host o di utente autorizzato, per tutta la durata del Contratto; alla cessazione del Contratto il Property Manager restituisce al Mandante la gestione esclusiva degli annunci, fermo quanto previsto dall’art. 17.",
     "like": 88
+   }
+  ],
+  "16": [
+   {
+    "text": "Le Parti intrattengono già un rapporto di collaborazione per la gestione dell’Immobile, che con il presente Contratto intendono disciplinare in modo aggiornato, anche a seguito dello svolgimento dell’attività del Property Manager in forma societaria;",
+    "like": 16
    }
   ]
  }

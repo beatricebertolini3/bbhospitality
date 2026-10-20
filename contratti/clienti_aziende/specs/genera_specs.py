@@ -23,7 +23,7 @@ C[92]="In particolare, per ogni prenotazione il Property Manager emette, in nome
 C[93]=None; C[94]=None
 C[100]=rep(100,"che gestisce ai sensi dell’art. 12","che il conduttore versa direttamente al Mandante")
 C[120]="Incassi, fatturazione e pagamenti"
-C[122]="Al termine di ciascun mese solare il Property Manager emette fattura al Mandante per il compenso di cui all’art. 11 maturato sui pernottamenti del mese, oltre IVA, unitamente agli eventuali costi a carico del Mandante sostenuti dal Property Manager nel medesimo mese, e mette a disposizione il rendiconto delle prenotazioni di cui all’art. 4. Il Mandante provvede al pagamento entro 15 (quindici) giorni dal ricevimento della fattura."
+C[122]="Al termine di ciascun mese solare il Property Manager emette fattura al Mandante per il compenso di cui all’art. 11 maturato sui pernottamenti del mese, oltre IVA, unitamente agli eventuali costi a carico del Mandante sostenuti dal Property Manager nel medesimo mese, e mette a disposizione il rendiconto delle prenotazioni di cui all’art. 4. Il Mandante provvede al pagamento entro 7 (sette) giorni dal ricevimento della fattura."
 C[123]="Detti pagamenti sono effettuati mediante bonifico bancario sul c/c intestato al Property Manager al seguente IBAN: _______________________________"
 C[124]="I costi sostenuti dal Property Manager per conto del Mandante sono addebitati nella fattura mensile verso presentazione del relativo giustificativo. Eventuali contestazioni del Mandante in merito alle spese addebitate dovranno pervenire, per iscritto, al Property Manager entro e non oltre il termine di 30 giorni dalla presentazione dei giustificativi."
 C[130]=None
@@ -35,6 +35,12 @@ C[185]=None
 C[192]="la mancata messa a disposizione dell’Immobile e degli accessi agli account delle piattaforme di prenotazione entro 10 giorni dalla ricezione della lettera di messa in mora;"
 C[196]=None
 
+C[127]=None
+C[131]=rep(131,"dagli artt. 13, 14, 16 e 17","dagli artt. 13, 14 e 17")
+C[172]=rep(172,"Fermo quanto previsto dal successivo comma in merito alla durata minima, ciascuna","Ciascuna")
+C[174]=None; C[175]=None
+C[226]="11) Compenso del Property Manager;"
+A[16]=[{"text":"Le Parti intrattengono già un rapporto di collaborazione per la gestione dell’Immobile, che con il presente Contratto intendono disciplinare in modo aggiornato, anche a seguito dello svolgimento dell’attività del Property Manager in forma societaria;","like":16}]
 FEE_DEF=" Per “Costo del Pernottamento”"+T[128].split(" Per “Costo del Pernottamento”")[1]
 def fee(pct,word,extra=""):
     return f"Per l’attività di gestione e per i servizi di cui all’art. 2, al Property Manager spetta un compenso pari al {pct}% ({word} per cento) del Costo del Pernottamento di ciascuna prenotazione{extra}, oltre IVA."+FEE_DEF
@@ -80,11 +86,9 @@ def units(n):
     return f"Il Mandante è proprietario (ovvero titolare di altro diritto reale o personale di godimento) delle seguenti {n} ({word}) unità immobiliari, ciascuna oggetto di un distinto annuncio sulle piattaforme di prenotazione (di seguito, singolarmente e congiuntamente, l’“Immobile”, intendendosi ogni riferimento all’Immobile contenuto nel presente Contratto riferito a ciascuna di esse): {u};"
 
 AL=dict(R); AL[10]=units(4)
-AL[127]=rep(127,"servizio fotografico, creazione e ottimizzazione degli annunci","ottimizzazione degli annunci, configurazione del gestionale")
 AL[128]=fee(10,"dieci")+" Al Property Manager spetta inoltre, per l’utilizzo del gestionale Kross Booking, un canone mensile di euro 9,00 (nove/00) oltre IVA per ciascun annuncio gestito, pari a complessivi euro 36,00 (trentasei/00) oltre IVA al mese per i 4 (quattro) annunci gestiti alla data di sottoscrizione, fatturato con il compenso mensile ai sensi dell’art. 10."
 
 IL=dict(R); IL[10]=units(2)
-IL[127]=rep(127,"servizio fotografico, creazione e ottimizzazione degli annunci","ottimizzazione degli annunci, migrazione al gestionale Kross Booking")
 IL[128]=fee(10,"dieci"," relativa ai 2 (due) annunci gestiti")
 IA=dict(A)
 IA[69]=[{"text":"All’avvio della gestione il Property Manager cura il passaggio dal gestionale attualmente utilizzato dal Mandante al gestionale Kross Booking, trasferendo annunci, calendari, tariffe e prenotazioni in essere in modo da garantire la continuità delle prenotazioni. Il Mandante collabora fornendo gli accessi e le informazioni necessari e, completato il passaggio, può consultare i dati delle prenotazioni tramite il Portale Proprietari di cui al comma precedente.","like":69}]
