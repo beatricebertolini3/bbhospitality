@@ -73,6 +73,7 @@ for i, m in enumerate(paras):
     out_parts.append(shift_refs(p))
     for t in after.get(i, []):
         like = paras[t['like']].group(0) if isinstance(t, dict) else m.group(0)
+        like = re.sub(r'<w:bookmark(?:Start|End)\b[^>]*/>', '', like)  # clones must not duplicate bookmark ids
         out_parts.append(shift_refs(set_text(like, t['text'] if isinstance(t, dict) else t)))
     last = m.end()
 out_parts.append(xml[last:])
