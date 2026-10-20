@@ -2,9 +2,9 @@
 
 **Oggetto:** Aggiornamento del contratto di gestione – BB Hospitality S.r.l.
 
-Buongiorno [Nome],
+Ciao [Nome],
 
-vi scrivo per un aggiornamento importante: la mia attività è cresciuta e ora opero come società, **BB Hospitality S.r.l.** Per questo motivo è necessario aggiornare il nostro contratto di gestione, che vi allego.
+ti scrivo per un aggiornamento importante: la mia attività è cresciuta e ora opero come società, **BB Hospitality S.r.l.** Per questo è necessario aggiornare il nostro contratto di gestione, che ti allego.
 
 **Cosa resta come oggi**
 
@@ -16,16 +16,14 @@ vi scrivo per un aggiornamento importante: la mia attività è cresciuta e ora o
 **Cosa cambia**
 
 - Essendo una società, il compenso ora è **più IVA al 22%**.
-- A fine mese vi invio **un'unica fattura** con il compenso sui pernottamenti del mese ed eventuali costi anticipati per vostro conto (ad esempio pulizie o interventi), insieme al rendiconto delle prenotazioni. Il pagamento è **entro 7 giorni** dal ricevimento, con bonifico.
+- A fine mese ti invio **un'unica fattura** con il compenso sui pernottamenti del mese ed eventuali costi anticipati per vostro conto (ad esempio pulizie o interventi), insieme al rendiconto delle prenotazioni. Il pagamento è **entro 7 giorni** dal ricevimento, con bonifico.
 - Il contratto mette per iscritto in modo più chiaro quello che già facciamo: le uscite in loco (1 al mese inclusa, poi 50 € + IVA), la gestione delle manutenzioni con preventivo, l'utilizzo dell'immobile da parte vostra e cosa succede alle prenotazioni già confermate se un giorno decideste di interrompere la collaborazione.
 
 Essendo già clienti, nel contratto non c'è alcun costo di avviamento né durata minima.
 
-Vi chiedo di leggerlo con calma e di rimandarmelo firmato quando vi è comodo; se qualcosa non è chiaro o volete parlarne, sono a disposizione per una chiamata.
+Leggilo con calma e rimandamelo firmato quando ti è comodo; se qualcosa non ti è chiaro, sentiamoci pure.
 
-Grazie per la fiducia di questi anni.
-
-Un cordiale saluto,
+Grazie per la fiducia di questi anni,
 
 Beatrice Bertolini
 BB Hospitality S.r.l.
