@@ -1,0 +1,16 @@
+{
+ "set": {
+  "3": "Il/la Sig./Sig.ra Simone ______________________, nato/a a ______________________ il ____/____/________, residente a ______________________, in via ______________________ n. ____, Codice Fiscale ______________________",
+  "10": "Il Mandante è proprietario (comproprietario/usufruttuario/comodatario/locatario/altro) dell’immobile (di seguito l’“Immobile”): sito in Chiesa in Valmalenco (SO), Via ______________________ n. ____, interno ____, piano ____; meglio individuato al NCEU del Comune di ______________________ al Foglio ____, Mapp. ____, Sub. ____, Categoria Catastale ____, con capacità ricettiva massima di 4 (quattro) persone;",
+  "132": "Per l’attività di gestione e per i servizi di cui all’art. 2, al Property Manager spetta un compenso pari al 17,5% (diciassette virgola cinque per cento) del Costo del Pernottamento di ciascuna prenotazione, oltre IVA. Per “Costo del Pernottamento” si intende il prezzo dei pernottamenti dovuto dall’Ospite, come risultante dalla prenotazione, al netto delle commissioni trattenute dalle piattaforme di prenotazione e delle spese di pulizia relative al soggiorno, ed esclusi l’imposta di soggiorno, l’eventuale deposito cauzionale e le commissioni di servizio addebitate all’Ospite dalle piattaforme.",
+  "184": "Per le Prenotazioni Future il Property Manager ha svolto l’attività di promozione e acquisizione ma non gestisce i relativi soggiorni, che passano al Mandante secondo quanto previsto dal presente articolo. Per tale attività il Mandante riconosce al Property Manager un compenso forfettario (il “Compenso di Fine Mandato”) pari al 30% (trenta per cento) del compenso che sarebbe spettato al Property Manager ai sensi dell’art. 11 per i pernottamenti successivi alla data di cessazione, oltre IVA. Il Compenso di Fine Mandato è quindi pari al 30% dell’importo ottenuto applicando al Costo del Pernottamento la percentuale prevista dall’art. 11."
+ },
+ "after": {
+  "184": [
+   {
+    "text": "A titolo esemplificativo, se le Prenotazioni Future ammontano a 8 notti con un Costo del Pernottamento di euro 100,00 ciascuna (euro 800,00 in totale), il compenso del Property Manager ai sensi dell’art. 11 sarebbe pari a euro 140,00 (17,5% di euro 800,00) e il Compenso di Fine Mandato è pari a euro 42,00 (30% di euro 140,00), oltre IVA.",
+    "like": 184
+   }
+  ]
+ }
+}
