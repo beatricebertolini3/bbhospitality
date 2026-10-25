@@ -19,7 +19,7 @@ Dato che incasso io e ti verso un canone netto, **paghi la cedolare secca solo s
 
 Nella presentazione trovi la simulazione su un anno con **25.000 €** di pernottamenti (soggiorno medio 600 €, pulizie 80 €, commissioni medie 17%). Con la cedolare al 21%:
 
-- **Annuncio a tuo nome:** circa 8.430 € netti
+- **Se pagassi la cedolare su tutto l'incasso:** circa 8.430 € netti
 - **Con BB Hospitality:** circa 10.805 € netti, cioè **+2.378 € l'anno (+28%)**
 
 Sono numeri indicativi, perché la casa non ha ancora uno storico, ma danno l'idea della differenza.
