@@ -1,0 +1,66 @@
+{
+ "shift_refs": {
+  "from": 7,
+  "by": 1
+ },
+ "set": {
+  "40": "setting, in agreement with the Principal, the prices to be charged to Guests (distinguishing between the portion relating to the rental of the Property and the portion relating to the services provided by the Property Manager directly to the Guests), taking into account the length of stay, the season and the number of occupants;",
+  "59": null,
+  "61": "Guest check-in, carried out remotely in compliance with the Italian legislation in force on guest identification, including the obligation of in-person (de visu) identification where applicable, also by means of remote identification tools compliant with such legislation; sending the access instructions and the guide referred to in letter a) of this paragraph; as well as collecting the tourist tax, issuing the related receipt and acquiring the identity documents of the guests for the communication to the Police;",
+  "73": "The Property Manager provides the Principal with login credentials to the Owner Portal of the Kross Booking management system, where the Principal can view at any time, for each booking, the Guests’ names, the start and end dates of the stay, the amount paid by the Guest, the commissions withheld by the booking platforms, the fees accrued by the Property Manager and the expenses incurred. The monthly activity report is made available to the Principal through the same portal or, on request, in electronic form.",
+  "80": "The Principal may use the Property personally, reasonably and in good faith, giving written notice to the Property Manager (including by e-mail or instant messaging) so that it can block the relevant dates (hereinafter the “Excluded Dates”), also through the booking portal to which the Principal will be given access. The Principal may not occupy the Property during high season unless agreed in advance with the Property Manager, but may use it, even at short notice, during periods in which the Property has no bookings.",
+  "82": "that the Excluded Dates may not exceed 60 days per calendar year;",
+  "88": "In accordance with the mandate received, the Property Manager rents out the Property on a short-term basis, for periods of less than 30 days, in compliance with the applicable national and local regulations. Longer rentals are governed by Article §7.",
+  "90": "The rent for each short-term rental is set by the Property Manager, in agreement with the Principal, according to the season, the number of occupants and the length of stay, applying a daily rate for the days on which the Property is actually rented.",
+  "91": null,
+  "119": "The Principal expressly authorises the Property Manager to engage collaborators and third parties (by way of example: cleaning staff, laundries, maintenance technicians, consultants), each within its own competence, to carry out the technical, operational, tax and accounting activities covered by this Agreement. The Property Manager is liable for the work of such parties as for its own acts. The related costs are borne by the Property Manager, except for those that this Agreement places on the Principal, namely cleaning, linen and laundry services and booking platform commissions (Article 10), maintenance (Article 12) and On-Site Interventions in the cases provided for in Article 13.",
+  "123": "The Property Manager shall pay the Principal the amounts due for the actual period of occupancy accrued in the previous calendar month, determined in accordance with Article 10 below, i.e. the revenue from stays less the Property Manager’s fee, all ordinary and extraordinary costs borne by the Principal and any withholding taxes required by law. Payment is normally made by the 5th day of the month following the month in which the amounts accrued; if the booking platforms pay out late, payment will be made by the last day of that month and, in any event, only after the Property Manager has actually received the related sums.",
+  "168": "The Property Manager declares that it has taken out an insurance policy covering the risks connected with its activity, which is attached to this agreement (annex f).",
+  "169": "The Principal declares that he/she has taken out an adequate insurance policy with a leading insurer covering the risks of fire (building and contents), theft, and third-party liability towards tenants and third parties, which is attached to this agreement (annex g).",
+  "221": null,
+  "231": "12) Liability of the Property Manager and its limitations;",
+  "232": "13) Maintenance of the Property;",
+  "233": "14) On-site interventions and Guest access;",
+  "234": "16) Term and withdrawal;",
+  "235": "17) Bookings outstanding at the termination of the Agreement;",
+  "236": "18) Express termination clause;",
+  "237": "21) Disputes.",
+  "92": "For short-term rentals, the rent includes reimbursement of ordinary condominium charges, waste tax and utilities (electricity, gas, internet, etc.) of the Property, as well as any other cost / tax / duty not expressly indicated in this Agreement."
+ },
+ "after": {
+  "99": [
+   {
+    "like": 87,
+    "text": "Medium-term rentals"
+   },
+   {
+    "like": 88,
+    "text": "As a rule, the Property is intended for short-term rental. Where necessary and subject to the Principal’s prior written consent, including by e-mail, the Parties may opt to rent the Property on a medium-term basis, for periods exceeding 30 days but shorter than one year and than the maximum duration permitted by the regulations in force, according to the criteria set out in this Article."
+   },
+   {
+    "like": 88,
+    "text": "For medium-term rentals:"
+   },
+   {
+    "like": 88,
+    "text": "a) the rent is agreed as a weekly or monthly flat rate, to be agreed between the Parties from time to time;"
+   },
+   {
+    "like": 88,
+    "text": "b) the Property Manager has the tenant sign a written rental contract compliant with the applicable regulations and arranges its registration in accordance with Article 8, at the Principal’s expense;"
+   },
+   {
+    "like": 88,
+    "text": "c) the Property Manager requests from the tenant an adequate security deposit or suitable guarantees, which it manages in accordance with Article 11;"
+   },
+   {
+    "like": 88,
+    "text": "d) the Property Manager’s fee is equal to the percentage set out in Article 10, calculated on the agreed rent net of any booking platform commissions, unless otherwise agreed in writing between the Parties;"
+   },
+   {
+    "like": 88,
+    "text": "e) for anything not otherwise provided, the provisions of this Agreement apply insofar as compatible."
+   }
+  ]
+ }
+}

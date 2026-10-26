@@ -1,0 +1,20 @@
+{
+ "set": {
+  "3": "La Sig.ra Giulia ______________________, nata a ______________________ il ____/____/________, residente a ______________________, in via ______________________ n. ____, Codice Fiscale ______________________",
+  "10": "Il Mandante è proprietario (comproprietario/usufruttuario/comodatario/locatario/altro) dell’immobile (di seguito l’“Immobile”): sito in località Pedemonte, Comune di ______________________ (____), Via ______________________ n. ____, interno ____, piano ____; meglio individuato al NCEU del Comune di ______________________ al Foglio ____, Mapp. ____, Sub. ____, Categoria Catastale ____;",
+  "131": null,
+  "135": "Fatto salvo quanto previsto dal presente articolo e dagli artt. 13, 14 e 17, null’altro sarà dovuto dal Mandante al Property Manager.",
+  "176": "Ciascuna Parte potrà recedere dal Contratto mediante comunicazione scritta da inviarsi all’altra Parte a mezzo raccomandata A/R o PEC, con un preavviso di 2 (due) mesi. Il recesso avrà effetto a decorrere dall’ultimo giorno del secondo mese solare successivo a quello in cui la relativa comunicazione sarà pervenuta all’altra Parte.",
+  "178": null,
+  "179": null,
+  "230": "11) Compenso del Property Manager;"
+ },
+ "after": {
+  "16": [
+   {
+    "text": "Le Parti intrattengono già un rapporto di collaborazione per la gestione dell’Immobile, che con il presente Contratto intendono disciplinare in modo aggiornato, anche a seguito dello svolgimento dell’attività del Property Manager in forma societaria;",
+    "like": 16
+   }
+  ]
+ }
+}
