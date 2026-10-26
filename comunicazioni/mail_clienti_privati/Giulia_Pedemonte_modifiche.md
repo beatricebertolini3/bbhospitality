@@ -1,6 +1,6 @@
 *Da allegare: Contratto_BB_Hospitality_Giulia_Leoni_firma.docx (o PDF)*
 
-**Oggetto:** Contratto di gestione – piccole modifiche da rifirmare e annuncio online da oggi
+**Oggetto:** Contratto di gestione – piccole modifiche da rifirmare
 
 Ciao Giulia,
 
@@ -19,9 +19,9 @@ Poi firma sotto il contratto e sotto l'elenco delle clausole approvate (artt. 13
 
 Ti consiglio anche, quando puoi, di sentire il tuo agente Unipol: in polizza la casa di Via Gatti 48 risulta come "dimora abituale", mentre la usiamo per gli affitti brevi. Conviene aggiornarla, per essere sicura di essere coperta in caso di sinistro.
 
-**Annuncio online da oggi**
+**Annuncio online**
 
-Nella giornata di oggi metto online l'**annuncio della casa intera**: ti mando il link appena è pubblicato.
+L'**annuncio della casa intera** è quasi pronto: ti mando il link appena è pubblicato.
 
 **Domani**
 
@@ -32,4 +32,4 @@ A presto,
 Beatrice Bertolini
 BB Hospitality S.r.l.
 Via Marconi 21, 23010 Tartano (SO)
-P.IVA 01108670140 · PEC: bbhospitality.srl@pec.it
+P.IVA 01108670140 · REA SO-83428 · PEC: bbhospitality.srl@pec.it
