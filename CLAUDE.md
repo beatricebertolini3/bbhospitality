@@ -3,7 +3,7 @@
 Informazioni stabili da rispettare in contratti, presentazioni e mail.
 
 ## Società
-- BB Hospitality S.r.l., Via Marconi 21, 23010 Tartano (SO), P.IVA/C.F. 01108670140, PEC bbhospitality.srl@pec.it.
+- BB Hospitality S.r.l., Via Marconi 21, 23010 Tartano (SO), P.IVA/C.F. 01108670140, REA SO-83428 (Registro Imprese di Sondrio), PEC bbhospitality.srl@pec.it.
 - Amministratrice Unica e firmataria dei contratti: Graziana Vergottini. Beatrice Bertolini gestisce clienti e comunicazioni.
 
 ## Modello standard (clienti privati)
